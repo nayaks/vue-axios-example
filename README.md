@@ -1,4 +1,5 @@
 # vue-axios-example
+<<<<<<< HEAD
 
 > A simple vyejs-axios request to SWAPI api rest
 
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+A very simple axios request with vue component
+>>>>>>> 73c9ca152508d3a26ecf2da7184564ccb80223b5
