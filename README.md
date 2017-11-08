@@ -1,22 +1,16 @@
-# vue-axios-example
-<<<<<<< HEAD
+# vue-axios-example :innocent:
+> A very simple example of axios request an Vue component :heavy_check_mark:
 
-> A simple vyejs-axios request to SWAPI api rest
-
-## Build Setup
-
-``` bash
-# install dependencies
+# How to use :question:
+```bash
+# Clone the repository
+git clone https://github.com/DanielOrtez/vue-axios-example.git <folderName>
+# Go to your folder
+cd <folderName>
+# Install the dependencies
 npm install
-
-# serve with hot reload at localhost:8080
+# Launche de dev-server
 npm run dev
-
-# build for production with minification
-npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-A very simple axios request with vue component
->>>>>>> 73c9ca152508d3a26ecf2da7184564ccb80223b5
+# I was used the [SWAPI API Rest](http://swapi.co/) :star:
